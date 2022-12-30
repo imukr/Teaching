@@ -1,0 +1,3 @@
+Teaching_project_Imukr
+dist
+venv
